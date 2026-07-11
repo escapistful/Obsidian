@@ -1,0 +1,5 @@
+# Локальное состояние Obsidian (окна, кэш) — не для синхронизации
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.trash/
